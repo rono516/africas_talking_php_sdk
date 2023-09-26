@@ -1,7 +1,7 @@
 # africas_talking_php_sdk
 
 This is an implementation of <a href="https://github.com/AfricasTalkingLtd/africastalking-php">Africa's Talking PHP Sdk</a> to utilize Africa's Talking API to get the following services:
-https://github.com/AfricasTalkingLtd/africastalking-php
+
 
 <ol>
   <li>SMS Service: $sms = $AT->sms()</li>
